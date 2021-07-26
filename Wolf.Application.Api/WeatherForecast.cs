@@ -1,6 +1,6 @@
 using System;
 
-namespace Application.Api
+namespace Wolf.Application.Api
 {
     public class WeatherForecast
     {

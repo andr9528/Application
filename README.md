@@ -1,3 +1,3 @@
-# Application Creator
+# Application Builder
 
-Project for creating an entity based job application creator.
+Project for creating an entity based job application builder.
