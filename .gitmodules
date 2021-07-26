@@ -2,6 +2,6 @@
 	path = Wolf.Utility.Core
 	url = https://github.com/andr9528/Wolf.Utility.Core
 	branch = master
-[submodule "Application-Creator.wiki"]
-	path = Application-Creator.wiki
-	url = https://github.com/andr9528/Application-Creator.wiki.git
+[submodule "Application.wiki"]
+	path = Application.wiki
+	url = https://github.com/andr9528/Application.wiki.git
