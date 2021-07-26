@@ -1,0 +1,8 @@
+[submodule "Application.wiki"]
+	path = Application.wiki
+	url = https://github.com/andr9528/Application.wiki.git
+	branch = master
+[submodule "Wolf.Utility.Core"]
+	path = Wolf.Utility.Core
+	url = https://github.com/andr9528/Wolf.Utility.Core
+	branch = master
